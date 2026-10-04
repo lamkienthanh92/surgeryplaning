@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it and the data sources listed in DATA_SOURCES.md."
+title: "Virtual Knee 3D: teaching and anterolateral reconstruction planning"
+type: software
+license: MIT
+version: 1.0.0
+date-released: 2026-10-04
+authors:
+  - name: "Virtual Knee 3D contributors"
